@@ -8,3 +8,4 @@ debug:
 
 save:
 	scrapy crawl sina_spider -O news.json
+	scrapy crawl film_spider -O film.json
