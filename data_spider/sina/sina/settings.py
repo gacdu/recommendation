@@ -9,7 +9,8 @@
 
 BOT_NAME = "sina"
 
-BOT_TYPE = "news"
+NEWS_BOT_TYPE = "news"
+FILM_BOT_TYPE = "film"
 
 SPIDER_MODULES = ["sina.spiders"]
 NEWSPIDER_MODULE = "sina.spiders"

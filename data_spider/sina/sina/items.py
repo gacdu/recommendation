@@ -14,3 +14,4 @@ class SinaItem(scrapy.Item):
     news_desc = scrapy.Field()
     news_time = scrapy.Field()
     news_type = scrapy.Field()
+    news_url = scrapy.Field()
