@@ -2,5 +2,5 @@
 
 ##### Run 
 ```bash
-> make save
+make save
 ```
